@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.ntt.learning.LearningApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 7.016 s - in com.ntt.learning.LearningApplicationTests

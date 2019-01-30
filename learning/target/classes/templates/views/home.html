@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html ng-app="learningApp">
+<head>
+	<meta charset="ISO-8859-1">
+	<title>Home</title>
+	<script src="https://code.angularjs.org/1.7.3/angular.min.js"></script>
+	<script src="js/home.js"></script>
+</head>
+<body ng-controller="learningCtrl as ctrl">
+	Name: <input type="text" name="txt_name" ng-model="data.name"/>{{data.name}}
+	<input type="submit" name="save" value="SAVE THIS NAME" ng-click="ctrl.sendit()"/>
+	<br/>
+	<br/>
+	<br/>
+	<br/>
+	We will show all names from the database table here
+	|
+	|
+	|
+	|
+	|------->
+	
+</body>
+</html>

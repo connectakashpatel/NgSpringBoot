@@ -1,0 +1,6 @@
+com\ntt\learning\model\Person.class
+com\ntt\learning\controller\HomeCtrl.class
+com\ntt\learning\LearningApplication.class
+com\ntt\learning\dao\PersonRepo.class
+com\ntt\learning\service\PersonService.class
+com\ntt\learning\service\PersonServiceImpl.class
